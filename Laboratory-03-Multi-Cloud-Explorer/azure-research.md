@@ -28,9 +28,9 @@ Azure SQL Database is a cloud database service. It can be used to store and mana
 Microsoft Entra ID is used to manage users and their access to resources. It helps control who can access different services.
 
 ## 5. Three Advantages
-Azure works well with Microsoft products.
-Azure can be used with both cloud and existing systems.
-Azure provides many services for businesses.
+* Azure works well with Microsoft products.
+* Azure can be used with both cloud and existing systems.
+* Azure provides many services for businesses.
 
 ## 6. Typical Enterprise Use Cases
 
