@@ -35,7 +35,9 @@ The mission focuses on identifying cloud services, comparing their capabilities,
 * free -h
 * df -h
 
-## Cloud Migration
+<img width="1318" height="845" alt="Screenshot 2026-09-01 193942" src="https://github.com/user-attachments/assets/2a46fd46-92e6-44be-a81a-54ebc8709a08" />
+
+<img width="1331" height="666" alt="Screenshot 2026-09-01 194024" src="https://github.com/user-attachments/assets/bddacd69-92a7-4b75-a3d0-ad1aefe1f4a4" />
 
 If the Linux server were migrated to the cloud, the following services could host it:
 
@@ -45,6 +47,3 @@ If the Linux server were migrated to the cloud, the following services could hos
 |Azure| Azure Virtual Machines|
 |GCP| Google Compute Engine|
 
-<img width="1318" height="845" alt="Screenshot 2026-09-01 193942" src="https://github.com/user-attachments/assets/2d95fde5-80ed-415e-888c-cce62cdccdd3" />
-
-<img width="1331" height="666" alt="Screenshot 2026-09-01 194024" src="https://github.com/user-attachments/assets/23f04cf1-0097-425f-aeef-48a2e803c01e" />
