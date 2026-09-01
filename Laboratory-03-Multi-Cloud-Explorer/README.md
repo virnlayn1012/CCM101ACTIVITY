@@ -22,6 +22,29 @@ The mission focuses on identifying cloud services, comparing their capabilities,
 * Document the laboratory activities using Markdown.
 
 ## Linux Server Investigation
+## Checkpoint 7
 
-The Linux server information will be documented after completing the KillerCoda activity.
+* Operating System
+* CPU Information
+* Memory
+* Disk Space
 
+## Linux Commands
+* cat /etc/os-release
+* lscpu
+* free -h
+* df -h
+
+## Cloud Migration
+
+If the Linux server were migrated to the cloud, the following services could host it:
+
+|Cloud Platform| Service|
+|---|---|
+|AWS| Amazon EC2|
+|Azure| Azure Virtual Machines|
+|GCP| Google Compute Engine|
+
+<img width="1318" height="845" alt="Screenshot 2026-09-01 193942" src="https://github.com/user-attachments/assets/2d95fde5-80ed-415e-888c-cce62cdccdd3" />
+
+<img width="1331" height="666" alt="Screenshot 2026-09-01 194024" src="https://github.com/user-attachments/assets/23f04cf1-0097-425f-aeef-48a2e803c01e" />
