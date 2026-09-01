@@ -17,3 +17,14 @@ I recommend Google Cloud Platform because the company works with Artificial Inte
 ## Recommended Platform: Amazon Web Services (AWS)
 
 I recommend AWS because the company serves customers from different parts of the world. AWS has many cloud locations and services that can help keep the online store available even when there are many users. It can also increase resources when more customers visit the website. The company can use Amazon EC2, Amazon S3, Elastic Load Balancing, and Amazon RDS.
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommend Platform | Justification| 
+|---|---|---|
+|Startup Company|GCP|GCP can support a growing application and provides useful cloud services for startups.|
+|Enterprise Organization| AWS|AWS has many cloud services that can support different business needs.|
+|Microsoft Environment|Azure|Azure works well with Microsoft products such as Windows Server and Microsoft 365.|
+|AI / Machine Learning|GCP|GCP has strong services for Artificial Intelligence and Machine Learning.|
+|Kubernetes Deployment|GCP|GCP provides Google Kubernetes Engine (GKE) for Kubernetes applications.|
+|Global Web Application|AWS|AWS has a large global infrastructure and can support applications with many users.|
