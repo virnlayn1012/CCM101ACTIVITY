@@ -12,8 +12,8 @@ This laboratory activity introduces the fundamentals of cloud-native engineering
 * Continue developing a well-organized GitHub Cloud Computing Portfolio
 
 ## Docker Command Executed
-* docker --version : This command checks the installed Docker version and confirms that Docker is available in the environment.
-* docker info : This command displays information about the Docker installation and its current environment.
-* docker pull nginx : This command downloads the official Nginx image from Docker Hub.
-* docker run -d -p 8080:80 --name nginx-server nginx : This command creates and starts an Nginx container in detached mode and maps host port 8080 to container port 80.
-* curl http://localhost:8080 : This command sends an HTTP request to the Nginx server and verifies that the web server is responding.
+`docker --version` This command checks the installed Docker version and confirms that Docker is available in the environment.
+`docker info` : This command displays information about the Docker installation and its current environment.
+`docker pull nginx` : This command downloads the official Nginx image from Docker Hub.
+`docker run -d -p 8080:80 --name nginx-server nginx` : This command creates and starts an Nginx container in detached mode and maps host port 8080 to container port 80.
+`curl http://localhost:8080` : This command sends an HTTP request to the Nginx server and verifies that the web server is responding.
